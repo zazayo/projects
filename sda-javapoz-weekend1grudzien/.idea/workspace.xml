@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb55f3a9-cf4f-4de8-9c38-7bb6875e8920" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uy3kIYLsTfhnPtmqQe4yln2xtH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="zajecia2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zajecia3" />
+      <recent name="zajecia2" />
+      <recent name="wdomugrudzien" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProstokatProgram">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecia1grudzien.HelloWorld" />
+      <module name="sda-javapoz-weekend1grudzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecia1grudzien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KonwerterCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecia1grudzien.KonwerterCF" />
+      <module name="sda-javapoz-weekend1grudzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecia1grudzien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacjeMatematyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecia1grudzien.OperacjeMatematyczne" />
+      <module name="sda-javapoz-weekend1grudzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecia1grudzien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatoryPorownania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecia1grudzien.OperatoryPorownania" />
+      <module name="sda-javapoz-weekend1grudzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecia1grudzien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProstokatProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajecia5luty1.ProstokatProgram" />
+      <module name="sda-javapoz-weekend1grudzien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajecia5luty1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProstokatProgram" />
+        <item itemvalue="Application.KonwerterCF" />
+        <item itemvalue="Application.OperatoryPorownania" />
+        <item itemvalue="Application.OperacjeMatematyczne" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb55f3a9-cf4f-4de8-9c38-7bb6875e8920" name="Default Changelist" comment="" />
+      <created>1576315148500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576315148500</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="82" width="579" height="659" key="#Zadanie4" timestamp="1578734125574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="82" width="579" height="659" key="#Zadanie4/0.0.1536.824@0.0.1536.824" timestamp="1578734125574" />
+    <state x="457" y="117" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1578832463435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="117" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578832463435" />
+    <state x="533" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578731585952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578155450545" />
+    <state x="533" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578731585952" />
+    <state x="2539" y="314" key="#com.intellij.ide.util.MemberChooser" timestamp="1578157201385">
+      <screen x="1920" y="79" width="1920" height="1040" />
+    </state>
+    <state x="2539" y="314" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157201385" />
+    <state x="499" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578750208549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578750208549" />
+    <state x="566" y="297" width="403" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578750210598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1578750210598" />
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1580548456023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580548456023" />
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1581757540856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157245433" />
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581757540856" />
+    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1581757540856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157245433" />
+    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581757540856" />
+    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1581757540856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157245433" />
+    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581757540856" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1581757540856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157245433" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581757540856" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580551302587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580551302587" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580551302587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580551302587" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580551302587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580551302587" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580551302587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580551302587" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1581757512601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1581757512601" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1578754545422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578754545422" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581752660191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578147448315" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581752660191" />
+    <state x="207" y="102" width="1166" height="589" key="dock-window-1" timestamp="1578157019805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="207" y="102" width="1166" height="589" key="dock-window-1/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157019805" />
+    <state x="2151" y="311" width="1166" height="589" key="dock-window-2" timestamp="1578157244065">
+      <screen x="1920" y="79" width="1920" height="1040" />
+    </state>
+    <state x="2151" y="311" width="1166" height="589" key="dock-window-2/0.0.1536.824/1920.79.1920.1040@0.0.1536.824" timestamp="1578157244065" />
+    <state x="205" y="32" key="new project wizard" timestamp="1576361578959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="205" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576361578959" />
+    <state x="511" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1580554539081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="40" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1580554539081" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580551028756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580551028756" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zajecia2grudzien/PetlaZadanie1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
